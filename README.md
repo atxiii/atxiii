@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: [hit here](hosein.shorabi@live.com)
+- 📫 How to reach me: [hit here](mailto:hosein.shorabi@live.com)
 
 <!--
 **atxiii/atxiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
