@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
--⚡ tech:
-[![JavaScript_CSS_HTML_NodeJS_MySQL_MongoDB_ReactJS_Express_wordpress_woocommerce](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_CSS_HTML_NodeJS_MySQL_MongoDB_ReactJS_Express_wordpress_woocommerce)]
-
-
 - 📫 How to reach me: hit here (hosein.shorabi@live.com)
 
 <!--
